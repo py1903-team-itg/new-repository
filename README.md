@@ -9,3 +9,4 @@
 
 你说牛逼不牛逼				
 
+今天是项目第二天，创建虚拟环境python3 -m venv .venv,激活虚拟环境source .venv/bin/activate
